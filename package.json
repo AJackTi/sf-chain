@@ -1,0 +1,27 @@
+{
+  "name": "sf-chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "dev-test": "nodemon dev-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjackTi/sf-chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjackTi/sf-chain/issues"
+  },
+  "homepage": "https://github.com/AjackTi/sf-chain#readme",
+  "devDependencies": {
+    "crypto-js": "^3.1.9-1",
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {}
+}
