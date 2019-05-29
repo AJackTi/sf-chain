@@ -1,4 +1,5 @@
 const DIFFFICULTY = 4;
 const MINE_RATE = 3000;
+const INITIAL_BALANCE = 500;
 
-module.exports = {DIFFFICULTY}, MINE_RATE;
+module.exports = {DIFFFICULTY, MINE_RATE, INITIAL_BALANCE};
